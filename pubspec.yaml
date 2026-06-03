@@ -1,0 +1,23 @@
+name: flow_nav
+description: "A dynamic navigation and layout orchestration package for Flutter. Automatically adapts AppBar to toolbar on large screens, and handles page navigation — full screen push on mobile, detail panel swap on large screens. No UI provided, pure workflow logic."
+version: 1.0.0
+homepage: https://github.com/cas8398/flow_nav
+
+repository: https://github.com/cas8398/flow_nav
+issue_tracker: https://github.com/cas8398/flow_nav/issues
+documentation: https://github.com/cas8398/flow_nav#readme
+
+environment:
+  sdk: ^3.6.0
+  flutter: ">=3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
